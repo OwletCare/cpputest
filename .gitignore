@@ -84,3 +84,6 @@ cpputest_*.xml
 #IAR automatically generated files
 *.dep
 *.ewt
+
+#Owlet specific
+**/.vs

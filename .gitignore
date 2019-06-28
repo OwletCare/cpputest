@@ -92,3 +92,11 @@ generated/
 #IAR automatically generated files
 *.dep
 *.ewt
+
+#Owlet specific
+**/.vs
+*.cmake
+*.ninja*
+CMake*
+generated
+*.tcl
